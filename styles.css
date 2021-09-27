@@ -2,11 +2,12 @@
 
 :root{
     --primary-color:#3B82F6;
-    --dark-grey:#6B7280;
+    --off-white: #F3F4F6;
+    --dark-gray: #6B7280;
 }
 body{
     font-family: 'Montserrat', sans-serif;
-    margin: 0px 0px 0px 0.5rem;
+    margin: 0px;
 }
 
 hr{
@@ -113,7 +114,7 @@ list-style: none;
 }
 
 .ow{
-    background-color:var(--dark-grey);
+    background-color:var(--off-white);
 }
 
 
