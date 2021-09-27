@@ -100,3 +100,18 @@ list-style: none;
     color:var(--primary-color);
 }
 
+/* section  */
+
+.section{
+    padding: 2rem;
+}
+
+.section h1{
+    text-align:center;
+
+}
+
+.ow{
+    background-color:var(--dark-grey);
+}
+
